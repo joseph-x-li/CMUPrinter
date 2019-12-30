@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CMUPrinter</string>
+    <string name="bruh">bruh</string>
+    <string name="color">Color</string>
+    <string name="find_nearest_printer">Find Nearest Printer</string>
+    <string name="toggle_b_w_color_n_search"><![CDATA[Toggle B&W/Color   Search]]></string>
+    <string name="button">Button</string>
+    <string name="printericon">printericon</string>
+    <string name="b_w"><![CDATA[B&W]]></string>
+    <string name="show_detail">SHOW DETAIL</string>
+    <string name="cancel_search">CANCEL SEARCH</string>
+</resources>
